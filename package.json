@@ -1,0 +1,31 @@
+{
+  "name": "reto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "^11.0.1",
+    "@playwright/test": "^1.48.2",
+    "@serenity-js/assertions": "^3.29.5",
+    "@serenity-js/core": "^3.29.5",
+    "@serenity-js/cucumber": "^3.29.5",
+    "@serenity-js/playwright": "^3.29.5",
+    "@serenity-js/web": "^3.29.5",
+    "@types/chai": "^5.0.1",
+    "@types/node": "^22.9.0",
+    "@types/selenium-webdriver": "^4.1.27",
+    "cucumber": "^6.0.7",
+    "gherkin": "^9.0.0",
+    "playwright": "^1.48.2",
+    "selenium-webdriver": "^4.26.0",
+    "serenity-js": "^1.10.14",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  }
+}
